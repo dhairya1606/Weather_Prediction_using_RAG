@@ -40,8 +40,8 @@ A **Retrieval-Augmented Generation (RAG) Chatbot** that provides not just raw we
 
 The system integrates live weather APIs, embeddings, vector retrieval, and an LLM for contextual reasoning.  
 
-![Architecture](<img width="1450" height="502" alt="image" src="https://github.com/user-attachments/assets/073400a2-c969-4b36-9812-653f55c0565c" />
-)  
+<img width="1450" height="502" alt="image" src="https://github.com/user-attachments/assets/3106c33e-a630-4e30-84e4-a4a41c473f8a" />
+
 
 ---
 
